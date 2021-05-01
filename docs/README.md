@@ -1,6 +1,7 @@
 # Prototool
 
 [![MIT License][mit-img]][mit] [![GitHub Release][release-img]][release] [![Build Status][ci-img]][ci] [![Coverage Status][cov-img]][cov] [![Docker Image][docker-img]][docker] [![Homebrew Package][homebrew-img]][homebrew] [![AUR Package][aur-img]][aur]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fprototool.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fprototool?ref=badge_shield)
 
 **Update:  We recommend checking out [Buf](https://github.com/bufbuild/buf), which is under active development.  There are a ton of docs for getting started, including for [migration from Prototool](https://buf.build/docs/migration-prototool).**
 
@@ -410,3 +411,7 @@ contribution to Prototool's functionality:
 
 [aur-img]: https://img.shields.io/aur/version/prototool-bin.svg
 [aur]: https://aur.archlinux.org/packages/prototool-bin
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fprototool.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fprototool?ref=badge_large)
